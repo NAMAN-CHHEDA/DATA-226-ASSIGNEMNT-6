@@ -44,6 +44,7 @@ The objective is to generate and visualize the **Weekly Active User (WAU)** metr
 ---
 
 ## 📂 Repository Structure
+```text
 ├── dags/
 │ ├── etl_user_session_dag.py
 │ ├── elt_session_summary_dag.py
@@ -53,7 +54,7 @@ The objective is to generate and visualize the **Weekly Active User (WAU)** metr
 │ ├── preset_dataset.png
 │ ├── wau_chart.png
 ├── README.md
-
+```
 
 ---
 
